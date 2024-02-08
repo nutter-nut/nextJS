@@ -1,5 +1,5 @@
 import Post from './Post';
-import classes from './Post.module.css'
+import classes from './PostsList.module.css'
 
 function PostsList(){
     return (
